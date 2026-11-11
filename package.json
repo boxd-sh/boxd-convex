@@ -1,10 +1,10 @@
 {
   "name": "@boxd-sh/convex",
   "description": "Convex component for boxd composable computers",
-  "repository": "github:azin-tech/boxd-convex",
-  "homepage": "https://github.com/azin-tech/boxd-convex#readme",
+  "repository": "github:boxd-sh/boxd-convex",
+  "homepage": "https://github.com/boxd-sh/boxd-convex#readme",
   "bugs": {
-    "url": "https://github.com/azin-tech/boxd-convex/issues"
+    "url": "https://github.com/boxd-sh/boxd-convex/issues"
   },
   "version": "0.1.1",
   "license": "MIT",

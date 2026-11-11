@@ -1,4 +1,4 @@
-![boxd: composable computers on Convex](https://raw.githubusercontent.com/azin-tech/boxd-convex/main/assets/banner.png)
+![boxd: composable computers on Convex](https://raw.githubusercontent.com/boxd-sh/boxd-convex/main/assets/banner.png)
 
 # boxd for Convex
 

@@ -25,7 +25,7 @@ import { Gate } from "./Gate.js";
 import { CopyCommand, StartBar } from "./lib/buttons.js";
 import { HowItWorks } from "./HowItWorks.js";
 
-const REPO = "https://github.com/azin-tech/boxd-convex";
+const REPO = "https://github.com/boxd-sh/boxd-convex";
 const NPM = "https://www.npmjs.com/package/@boxd-sh/convex";
 
 type Row = NonNullable<

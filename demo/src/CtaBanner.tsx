@@ -14,7 +14,7 @@ export function CtaBanner() {
         </p>
         <div className="start">
           <InstallBar command="npm install @boxd-sh/convex" />
-          <GhostButton href="https://github.com/azin-tech/boxd-convex">
+          <GhostButton href="https://github.com/boxd-sh/boxd-convex">
             GitHub
           </GhostButton>
         </div>
